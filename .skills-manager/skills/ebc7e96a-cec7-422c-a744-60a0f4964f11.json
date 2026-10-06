@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ebc7e96a-cec7-422c-a744-60a0f4964f11",
+  "path": "box",
+  "path_key": "box",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

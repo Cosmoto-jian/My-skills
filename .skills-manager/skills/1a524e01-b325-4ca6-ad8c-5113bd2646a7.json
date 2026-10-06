@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1a524e01-b325-4ca6-ad8c-5113bd2646a7",
+  "path": "understand-chat",
+  "path_key": "understand-chat",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

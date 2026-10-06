@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "42d537c3-8156-4a51-a22a-d804967141ee",
+  "path": "simple-english",
+  "path_key": "simple-english",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
