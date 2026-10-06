@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4cc27b5a-2a74-4dcc-99c4-19868195786d",
+  "path": "asd-ste100",
+  "path_key": "asd-ste100",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "danyuchn/asd-ste100-skill/asd-ste100",
+    "subpath": null,
+    "branch": null
+  }
+}

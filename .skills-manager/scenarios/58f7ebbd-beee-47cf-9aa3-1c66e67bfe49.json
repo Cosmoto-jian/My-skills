@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "58f7ebbd-beee-47cf-9aa3-1c66e67bfe49",
+  "name": "program",
+  "description": "编程",
+  "icon": "code-2",
+  "sort_order": 999
+}
