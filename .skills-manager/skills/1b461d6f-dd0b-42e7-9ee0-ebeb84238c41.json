@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b461d6f-dd0b-42e7-9ee0-ebeb84238c41",
+  "path": "agent-harness-construction",
+  "path_key": "agent-harness-construction",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/agent-harness-construction",
+    "branch": null
+  }
+}

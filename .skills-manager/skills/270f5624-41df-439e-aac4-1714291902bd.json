@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "270f5624-41df-439e-aac4-1714291902bd",
+  "path": "agent-architecture-audit",
+  "path_key": "agent-architecture-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/agent-architecture-audit",
+    "branch": null
+  }
+}

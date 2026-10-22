@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d0d8673-f727-4b4c-a05e-0e02a49299c4",
+  "path": "customs-trade-compliance",
+  "path_key": "customs-trade-compliance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/customs-trade-compliance",
+    "branch": null
+  }
+}

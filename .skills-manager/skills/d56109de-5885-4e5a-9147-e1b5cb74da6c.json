@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d56109de-5885-4e5a-9147-e1b5cb74da6c",
+  "path": "cost-aware-llm-pipeline",
+  "path_key": "cost-aware-llm-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/cost-aware-llm-pipeline",
+    "branch": null
+  }
+}

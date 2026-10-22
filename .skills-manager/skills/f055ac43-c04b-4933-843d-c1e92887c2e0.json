@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f055ac43-c04b-4933-843d-c1e92887c2e0",
+  "path": "content-hash-cache-pattern",
+  "path_key": "content-hash-cache-pattern",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/content-hash-cache-pattern",
+    "branch": null
+  }
+}

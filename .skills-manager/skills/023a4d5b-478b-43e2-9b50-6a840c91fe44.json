@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "023a4d5b-478b-43e2-9b50-6a840c91fe44",
+  "path": "esign-field-placement",
+  "path_key": "esign-field-placement",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/esign-field-placement",
+    "branch": null
+  }
+}

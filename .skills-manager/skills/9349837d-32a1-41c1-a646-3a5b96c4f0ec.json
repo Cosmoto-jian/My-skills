@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9349837d-32a1-41c1-a646-3a5b96c4f0ec",
+  "path": "connections-optimizer",
+  "path_key": "connections-optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/connections-optimizer",
+    "branch": null
+  }
+}

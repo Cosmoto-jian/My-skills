@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a74cb14b-7e73-4e1e-8209-8c1dbfd70c13",
+  "path": "database-migrations",
+  "path_key": "database-migrations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/database-migrations",
+    "branch": null
+  }
+}

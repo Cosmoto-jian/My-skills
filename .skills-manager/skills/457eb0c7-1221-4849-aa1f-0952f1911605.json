@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "457eb0c7-1221-4849-aa1f-0952f1911605",
+  "path": "defi-amm-security",
+  "path_key": "defi-amm-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/defi-amm-security",
+    "branch": null
+  }
+}

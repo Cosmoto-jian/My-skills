@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "983153c9-626a-493f-99f9-19df69cd2de6",
+  "path": "subagent-driven-development",
+  "path_key": "subagent-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/obra/superpowers.git",
+    "subpath": "skills/subagent-driven-development",
+    "branch": null
+  }
+}

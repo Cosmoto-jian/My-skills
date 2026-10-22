@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6fb3d270-88bb-4773-a865-c01d88734064",
+  "path": "deep-research",
+  "path_key": "deep-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/deep-research",
+    "branch": null
+  }
+}

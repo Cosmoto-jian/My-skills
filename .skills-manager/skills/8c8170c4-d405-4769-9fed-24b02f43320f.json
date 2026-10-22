@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8c8170c4-d405-4769-9fed-24b02f43320f",
+  "path": "carrier-relationship-management",
+  "path_key": "carrier-relationship-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/carrier-relationship-management",
+    "branch": null
+  }
+}

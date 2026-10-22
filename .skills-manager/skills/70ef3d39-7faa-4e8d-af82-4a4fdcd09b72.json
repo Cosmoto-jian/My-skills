@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70ef3d39-7faa-4e8d-af82-4a4fdcd09b72",
+  "path": "dev-team",
+  "path_key": "dev-team",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/dev-team",
+    "branch": null
+  }
+}

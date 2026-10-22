@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1eee3565-db85-4b48-bffc-d8fd54204934",
+  "path": "cpp-coding-standards",
+  "path_key": "cpp-coding-standards",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/cpp-coding-standards",
+    "branch": null
+  }
+}

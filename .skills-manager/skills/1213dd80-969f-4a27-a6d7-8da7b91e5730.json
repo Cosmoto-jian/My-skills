@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1213dd80-969f-4a27-a6d7-8da7b91e5730",
+  "path": "baoyu-image-gen",
+  "path_key": "baoyu-image-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jimliu/baoyu-skills/baoyu-image-gen",
+    "subpath": "skills/baoyu-image-gen",
+    "branch": null
+  }
+}

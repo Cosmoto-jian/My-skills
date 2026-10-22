@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8135f816-c560-43da-bfc2-8a501c6ba3e1",
+  "path": "docs-governance",
+  "path_key": "docs-governance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/docs-governance",
+    "branch": null
+  }
+}

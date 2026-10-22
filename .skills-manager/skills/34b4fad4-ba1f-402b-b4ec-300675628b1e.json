@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34b4fad4-ba1f-402b-b4ec-300675628b1e",
+  "path": "e2e-testing",
+  "path_key": "e2e-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/e2e-testing",
+    "branch": null
+  }
+}

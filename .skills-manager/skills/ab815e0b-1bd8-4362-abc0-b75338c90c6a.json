@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ab815e0b-1bd8-4362-abc0-b75338c90c6a",
+  "path": "ecc-guide",
+  "path_key": "ecc-guide",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/ecc-guide",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5b30c2a-97b0-4a97-8e4e-992401548103",
+  "path": "config-gc",
+  "path_key": "config-gc",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/config-gc",
+    "branch": null
+  }
+}

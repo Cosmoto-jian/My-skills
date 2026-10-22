@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9778c43f-0d1c-4d66-b043-4d382eefba54",
+  "path": "conventional-commit-review",
+  "path_key": "conventional-commit-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/conventional-commit-review",
+    "branch": null
+  }
+}

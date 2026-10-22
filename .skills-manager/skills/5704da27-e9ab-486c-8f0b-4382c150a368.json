@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5704da27-e9ab-486c-8f0b-4382c150a368",
+  "path": "exa-search",
+  "path_key": "exa-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/exa-search",
+    "branch": null
+  }
+}

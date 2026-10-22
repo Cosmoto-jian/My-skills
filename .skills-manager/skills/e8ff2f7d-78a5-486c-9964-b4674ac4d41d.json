@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e8ff2f7d-78a5-486c-9964-b4674ac4d41d",
+  "path": "dynamic-workflow-mode",
+  "path_key": "dynamic-workflow-mode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/dynamic-workflow-mode",
+    "branch": null
+  }
+}

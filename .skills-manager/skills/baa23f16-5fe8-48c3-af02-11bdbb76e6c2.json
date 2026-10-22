@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "baa23f16-5fe8-48c3-af02-11bdbb76e6c2",
+  "path": "blueprint",
+  "path_key": "blueprint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/blueprint",
+    "branch": null
+  }
+}

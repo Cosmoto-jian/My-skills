@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b969d2d0-8ec1-43f3-bf7c-dc3ff0621016",
+  "path": "evm-token-decimals",
+  "path_key": "evm-token-decimals",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/evm-token-decimals",
+    "branch": null
+  }
+}

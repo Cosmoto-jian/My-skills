@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dd576ba3-5c00-4e7b-af63-c98e3435a321",
+  "path": "agent-security-hardening",
+  "path_key": "agent-security-hardening",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/agent-security-hardening",
+    "branch": null
+  }
+}

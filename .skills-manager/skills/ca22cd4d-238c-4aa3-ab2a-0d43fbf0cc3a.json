@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca22cd4d-238c-4aa3-ab2a-0d43fbf0cc3a",
+  "path": "agent-self-evaluation",
+  "path_key": "agent-self-evaluation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/agent-self-evaluation",
+    "branch": null
+  }
+}

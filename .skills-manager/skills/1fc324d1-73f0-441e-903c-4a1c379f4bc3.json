@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1fc324d1-73f0-441e-903c-4a1c379f4bc3",
+  "path": "brainstorming",
+  "path_key": "brainstorming",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/obra/superpowers.git",
+    "subpath": "skills/brainstorming",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "edb32953-d1a3-40da-80a8-4ea0fe91094f",
+  "path": "canary-watch",
+  "path_key": "canary-watch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/canary-watch",
+    "branch": null
+  }
+}

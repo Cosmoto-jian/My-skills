@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8d2fed7-0d87-4129-abff-8c70330047b6",
+  "path": "executing-plans",
+  "path_key": "executing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/obra/superpowers.git",
+    "subpath": "skills/executing-plans",
+    "branch": null
+  }
+}

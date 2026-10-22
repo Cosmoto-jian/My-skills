@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7ddbf02-dd47-40bf-af17-4b0b842d2cae",
+  "path": "django-tdd",
+  "path_key": "django-tdd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/django-tdd",
+    "branch": null
+  }
+}

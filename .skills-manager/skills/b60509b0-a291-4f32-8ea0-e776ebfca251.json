@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b60509b0-a291-4f32-8ea0-e776ebfca251",
+  "path": "qiaomu-codex-imagegen",
+  "path_key": "qiaomu-codex-imagegen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "joeseesun/qiaomu-codex-imagegen/qiaomu-codex-imagegen",
+    "subpath": null,
+    "branch": null
+  }
+}

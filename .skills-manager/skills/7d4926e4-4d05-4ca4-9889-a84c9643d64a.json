@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d4926e4-4d05-4ca4-9889-a84c9643d64a",
+  "path": "bun-runtime",
+  "path_key": "bun-runtime",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/bun-runtime",
+    "branch": null
+  }
+}

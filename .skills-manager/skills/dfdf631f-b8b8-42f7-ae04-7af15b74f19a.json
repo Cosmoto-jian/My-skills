@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dfdf631f-b8b8-42f7-ae04-7af15b74f19a",
+  "path": "ai-first-engineering",
+  "path_key": "ai-first-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/ai-first-engineering",
+    "branch": null
+  }
+}

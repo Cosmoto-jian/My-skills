@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2b7f5f0-1ed9-4359-8dcb-b38e95891e51",
+  "path": "cisco-ios-patterns",
+  "path_key": "cisco-ios-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/cisco-ios-patterns",
+    "branch": null
+  }
+}

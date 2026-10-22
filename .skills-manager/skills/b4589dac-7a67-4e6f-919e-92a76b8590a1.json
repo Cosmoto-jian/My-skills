@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b4589dac-7a67-4e6f-919e-92a76b8590a1",
+  "path": "autonomous-loops",
+  "path_key": "autonomous-loops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/autonomous-loops",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a82e890-5565-4596-a81d-7f98aa6adc4e",
+  "path": "agent-sort",
+  "path_key": "agent-sort",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/agent-sort",
+    "branch": null
+  }
+}

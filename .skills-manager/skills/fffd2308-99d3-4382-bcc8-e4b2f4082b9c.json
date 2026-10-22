@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fffd2308-99d3-4382-bcc8-e4b2f4082b9c",
+  "path": "benchmark-methodology",
+  "path_key": "benchmark-methodology",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/benchmark-methodology",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1943c3a0-0730-46ea-919e-2fa852168b7e",
+  "path": "brand-discovery",
+  "path_key": "brand-discovery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/brand-discovery",
+    "branch": null
+  }
+}

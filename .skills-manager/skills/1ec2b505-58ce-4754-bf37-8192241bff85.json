@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1ec2b505-58ce-4754-bf37-8192241bff85",
+  "path": "architecture-decision-records",
+  "path_key": "architecture-decision-records",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/architecture-decision-records",
+    "branch": null
+  }
+}

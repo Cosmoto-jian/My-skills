@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8f086b92-12d3-486f-b6ae-4f0b082de455",
+  "path": "成峰论文Skills",
+  "path_key": "成峰论文skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Agentchengfeng/paper-reading-skills.git",
+    "subpath": null,
+    "branch": null
+  }
+}

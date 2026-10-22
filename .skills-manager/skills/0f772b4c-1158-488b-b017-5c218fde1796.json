@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0f772b4c-1158-488b-b017-5c218fde1796",
+  "path": "dashboard-builder",
+  "path_key": "dashboard-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/dashboard-builder",
+    "branch": null
+  }
+}

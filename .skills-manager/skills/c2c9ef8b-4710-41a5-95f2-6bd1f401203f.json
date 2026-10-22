@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2c9ef8b-4710-41a5-95f2-6bd1f401203f",
+  "path": "eval-harness",
+  "path_key": "eval-harness",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/eval-harness",
+    "branch": null
+  }
+}

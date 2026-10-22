@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef0c4df0-f346-4059-a8e0-a1938dcc15b7",
+  "path": "codehealth-mcp",
+  "path_key": "codehealth-mcp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/codehealth-mcp",
+    "branch": null
+  }
+}

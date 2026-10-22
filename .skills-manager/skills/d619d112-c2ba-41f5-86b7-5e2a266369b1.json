@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d619d112-c2ba-41f5-86b7-5e2a266369b1",
+  "path": "council-multi-model",
+  "path_key": "council-multi-model",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/council-multi-model",
+    "branch": null
+  }
+}

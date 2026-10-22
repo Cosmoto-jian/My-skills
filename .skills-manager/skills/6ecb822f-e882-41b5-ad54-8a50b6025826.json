@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ecb822f-e882-41b5-ad54-8a50b6025826",
+  "path": "ck",
+  "path_key": "ck",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/ck",
+    "branch": null
+  }
+}

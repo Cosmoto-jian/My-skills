@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8345537-a242-458d-a6bd-d755e4fbd028",
+  "path": "django-security",
+  "path_key": "django-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/django-security",
+    "branch": null
+  }
+}

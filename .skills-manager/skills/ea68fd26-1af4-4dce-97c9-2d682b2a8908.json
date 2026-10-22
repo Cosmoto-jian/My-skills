@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea68fd26-1af4-4dce-97c9-2d682b2a8908",
+  "path": "angular-developer",
+  "path_key": "angular-developer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/angular-developer",
+    "branch": null
+  }
+}

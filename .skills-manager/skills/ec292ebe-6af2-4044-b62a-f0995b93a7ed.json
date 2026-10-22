@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec292ebe-6af2-4044-b62a-f0995b93a7ed",
+  "path": "ecc-tools-cost-audit",
+  "path_key": "ecc-tools-cost-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/ecc-tools-cost-audit",
+    "branch": null
+  }
+}

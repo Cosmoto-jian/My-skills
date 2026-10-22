@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aae8122b-6397-48ff-a9e0-477789665286",
+  "path": "click-path-audit",
+  "path_key": "click-path-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/click-path-audit",
+    "branch": null
+  }
+}

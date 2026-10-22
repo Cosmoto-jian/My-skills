@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e2de45b-aef5-4bda-a78b-aa059ee7eb2c",
+  "path": "api-connector-builder",
+  "path_key": "api-connector-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/api-connector-builder",
+    "branch": null
+  }
+}

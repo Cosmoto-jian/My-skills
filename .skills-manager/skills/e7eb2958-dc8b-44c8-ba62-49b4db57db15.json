@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e7eb2958-dc8b-44c8-ba62-49b4db57db15",
+  "path": "csharp-testing",
+  "path_key": "csharp-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/csharp-testing",
+    "branch": null
+  }
+}

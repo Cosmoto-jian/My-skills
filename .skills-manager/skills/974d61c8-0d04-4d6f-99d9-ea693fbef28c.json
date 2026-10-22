@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "974d61c8-0d04-4d6f-99d9-ea693fbef28c",
+  "path": "competitive-platform-analysis",
+  "path_key": "competitive-platform-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/competitive-platform-analysis",
+    "branch": null
+  }
+}

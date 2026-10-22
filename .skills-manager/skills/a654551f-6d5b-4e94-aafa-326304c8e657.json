@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a654551f-6d5b-4e94-aafa-326304c8e657",
+  "path": "dmux-workflows",
+  "path_key": "dmux-workflows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/affaan-m/ECC",
+    "subpath": "skills/dmux-workflows",
+    "branch": null
+  }
+}
